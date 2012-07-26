@@ -20,6 +20,8 @@ h2 {
 	font-size: 36px;
 	font-family: Helvetica, Arial, Sans-Serif;
 	color: #000000;
+	line-height: 39px;
+	letter-spacing: -1px;
 }
 small {
 	color: #595856;
@@ -166,6 +168,11 @@ parent*/
 	width: 430px;
 	margin-left: 30px;
 }
+/*
+	Blog Page
+*/
+#block_featuredblog .text_block { padding-top: 5px; width: 490px; }
+
 /*
 	Portfolio-Home-Styles
 */
