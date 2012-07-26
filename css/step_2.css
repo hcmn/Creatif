@@ -205,6 +205,13 @@ parent*/
 	padding-top: 40px;
 }
 /*
+	Generic Page
+*/
+h4 {
+	color: #007de2;
+	margin: 0px 0px 0px 0px;
+}
+/*
 	Portfolio-Home-Styles
 */
 #block_portfolio {
