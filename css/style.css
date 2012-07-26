@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* Background-Styles */
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #131211;
+}
+
+#main {
+	background: #c4c0be url(../images/background_light_slice.jpg) repeat-x;
+}
+
+#main .container {
+	background-image:url(../images/background_light.jpg);
+	background-repeat: no-repeat;
+	min-height: 400px;
+}
+
+#footer {
+	background-image: url(../images/background_footer.jpg);
+	background-repeat: repeat-x;
+	color: white;
+	padding: 40px;
+}
+
+.container {
+	width: 950px;
+	margin: 0 auto;
+	/*border: 1px solid red;*/
+	position: relative;
+}
