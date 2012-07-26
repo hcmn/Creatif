@@ -211,6 +211,9 @@ h4 {
 	color: #007de2;
 	margin: 0px 0px 0px 0px;
 }
+#content_area {
+	min-height: 500px;
+}
 /*
 	Portfolio-Home-Styles
 */
