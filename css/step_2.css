@@ -172,7 +172,23 @@ parent*/
 	Blog Page
 */
 #block_featuredblog .text_block { padding-top: 5px; width: 490px; }
-
+#content_area {
+	width: 665px;
+	float: left;
+}
+#sidebar {
+	float: left;
+	width: 281px;
+	position: relative;
+	left: -1px;
+	margin-top: 15px;
+	background-color: #e2dddc;
+	border: 1px solid #a3a09e;
+}
+#sidebar .block_inside {
+	background: none;
+	background-color: #e2dddc;
+}
 /*
 	Portfolio-Home-Styles
 */
